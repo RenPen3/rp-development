@@ -1,0 +1,27 @@
+{
+  "current": "Default",
+  "presets": {
+    "Default": {
+      "sections": {
+        "pricing": {
+          "type": "pricing",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "pricing"
+      ]
+    },
+    "dark": {
+      "sections": {
+        "pricing": {
+          "type": "pricing",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "pricing"
+      ]
+    }
+  }
+}
